@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T13:16:01.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="h_t1qO8kPEocZ-dEMDYu" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-25T14:20:22.004Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="PdYAsOboSN4G2R9_t1bb" version="24.1.0" type="github">
   <diagram name="Página-1" id="alKp1R0HNNUOvfws8MKY">
-    <mxGraphModel dx="1467" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1956" dy="1040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Kwb9T7wb9IENg8nRnX77-1" value="CASA" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Kwb9T7wb9IENg8nRnX77-1" value="HOUSE" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="50" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Kwb9T7wb9IENg8nRnX77-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -43,16 +43,16 @@
             <mxPoint x="490" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kwb9T7wb9IENg8nRnX77-20" value="=HOUSE DO CHOPPER=" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="Kwb9T7wb9IENg8nRnX77-20" value="=HOME DO CHOPPER=" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="80" y="650" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Kwb9T7wb9IENg8nRnX77-21" value="=== HOUSE DO ZORO ===" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="Kwb9T7wb9IENg8nRnX77-21" value="=== HOME DO ZORO ===" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="333.5" y="650" width="166.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Kwb9T7wb9IENg8nRnX77-22" value="=== HOUSE DA NAMI ===" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="590" y="650" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Kwb9T7wb9IENg8nRnX77-26" value="CADA PET POSSUI A SUA HOUSE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Kwb9T7wb9IENg8nRnX77-26" value="CADA PET POSSUI A SUA HOME" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="350" y="481" width="104" height="104" as="geometry" />
         </mxCell>
         <mxCell id="Kwb9T7wb9IENg8nRnX77-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
