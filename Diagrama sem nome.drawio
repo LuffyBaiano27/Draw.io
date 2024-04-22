@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T12:49:01.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="AdOR3kUre6XQO7rodyQ3" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T13:10:42.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="JO00-z9WDO2tQGMHLTUj" version="24.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,7 +75,7 @@
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--17" value="Matricula" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="508" y="120" width="160" height="216" as="geometry">
-            <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
+            <mxRectangle x="508" y="120" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--18" value="- nome: string" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;" parent="zkfFHV4jXpPFQw0GAbJ--17" vertex="1">
@@ -119,6 +119,11 @@
         <mxCell id="g5yy23rsbWSIpFsBuRvI-4" value="Um gestor tem que administrar os cursos de uma determinada instituição,&amp;nbsp;&lt;div&gt;manter os alunos na instituição para que possam permanecer matriculados e manter os professores&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=none;labelBackgroundColor=none;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="134" y="680" width="560" height="40" as="geometry" />
         </mxCell>
+        <UserObject label="onedrive.aspx?ga=1&amp;id=%2Fpersonal%2Fsergio%5Fspinola%5Fanimaeducacao%5Fcom%5Fbr%2FDocuments%2FModelagem%5FAlunos%2FLab2" link="https://animaeducacao-my.sharepoint.com/personal/sergio_spinola_animaeducacao_com_br/_layouts/15/onedrive.aspx?ga=1&amp;id=%2Fpersonal%2Fsergio%5Fspinola%5Fanimaeducacao%5Fcom%5Fbr%2FDocuments%2FModelagem%5FAlunos%2FLab2" id="g5yy23rsbWSIpFsBuRvI-7">
+          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="100" y="130" width="70" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
